@@ -1,33 +1,30 @@
-# good-finances
-AI-powered personal finance tools and templates built under the FirstGrid studio.
-Good Finances — by FirstGrid
+# Good Finances — by FirstGrid
 
-Good Finances is a simple, AI-powered personal finance toolkit designed to help UK-based users make better money decisions. Built under the FirstGrid studio, it includes templates, calculators, and workflows that simplify budgeting, planning, and financial literacy.
+**Good Finances** is an AI-powered personal finance toolkit designed to help (mainly UK-based) users make clearer, calmer money decisions.
 
-🔹 Features
+It combines:
+- A private Good Finances AI assistant (built on LLMs)
+- Printable and digital planners
+- Simple calculators and checklists
+- Accessibility-friendly layouts (dyslexia-aware design, clean fonts, high contrast)
 
-AI-powered budget helper (via ChatGPT / Good Finances GPT)
-UK-focused pay & tax calculator
-Savings & investment planners
-Printable templates (budgets, calendars, trackers)
-Accessibility-friendly layouts (dyslexia-aware design)
+This repo documents the product direction, not the underlying GPT prompt.
 
-🔹 What’s inside this repo
+---
 
-This repository includes:
-Product documentation
-Feature ideas & roadmap
-Screenshots and mockups
-System workflows
-Release notes
+## Goals
 
-🔹 Live Links
+- Make money feel less scary and more manageable.
+- Help users understand their income, costs, debt, and savings at a glance.
+- Support UK-specific decisions (tax year, ISAs, pensions, etc.).
+- Build tools that reduce overwhelm for neurodivergent users.
 
-Website: coming soon 
-Good Finances AI (Private GPT): 
-The AI assistant powering the Good Finances experience.
-Currently used privately for testing. Public release coming in a later version.
+---
 
-🔹 About FirstGrid
+## Repo Structure
 
-FirstGrid is a small experimental studio where I build lightweight AI tools across financial education, enablement, and wellbeing.
+- `docs/overview.md` – what Good Finances is and who it’s for  
+- `docs/roadmap.md` – high-level priorities and release ideas  
+- `docs/workflows.md` – example user flows and use cases  
+
+Screenshots, templates, and other assets can be added over time.
