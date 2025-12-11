@@ -27,6 +27,7 @@ Website: coming soon
 Good Finances AI (Private GPT): 
 The AI assistant powering the Good Finances experience.
 Currently used privately for testing. Public release coming in a later version.
+
 🔹 About FirstGrid
 
 FirstGrid is a small experimental studio where I build lightweight AI tools across financial education, enablement, and wellbeing.
